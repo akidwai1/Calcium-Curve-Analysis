@@ -2,7 +2,7 @@
 - 👀 I’m interested in computational Biology
 - 🌱 I’m currently learning Python, Machine Learning, Statistics and Data Analysis
 - 💞️ I’m looking to collaborate on projects related to Bioinformatics
-- 📫 How to reach me- anamkidwai@andrew.cmu.edu or anamkidwai8@gmail.com
+- 📫 How to reach me- akidwai@andrew.cmu.edu or anamkidwai8@gmail.com
 
 <!---
 akidwai1/akidwai1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
